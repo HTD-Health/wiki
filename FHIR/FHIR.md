@@ -33,19 +33,19 @@ Secure sandbox available (Oauth2)
 7. A CDA can contain any type of clinical notes. Typical CDA document types include Discharge Summary, Imaging Report, History & Physical, and Pathology Report. An XML element in a CDA supports unstructured text, as well as links to composite documents encoded in pdf, docx, or rtf, as well as image formats like jpg and png.
 Document consist of mandatory textual parts (for humans) and structured optional parts (for software processing). 
 
-### Related topics
+## Related topics
 
-## General
+### General
 	* EPR (Electronic patient record)
 	* Meaningful Use	
-## Medical data exchange
+### Medical data exchange
 	* Clinical Document Architecture (CDA)
 	* Health Information Exchange (HIE)
-## Concepts and semantics encoding
+### Concepts and semantics encoding
 	* SNOMED
 	* LOINC
 	* Continuity of Care Record
-## Products / technologies
+### Products / technologies
 	* Continuity of Care Document (CCD)
 	* Gello Expression Language
 	* SMART platform (http://smarthealthit.org)
