@@ -1,7 +1,7 @@
 ### FHIR
 1. Created by Health Level Seven International  (http://www.hl7.org)
 2. FHIR provide API:
-	* RESTful endopoints
+	* RESTful end points
 	* XML or JSON for data exchange
 	* Atom for results
 	* OAuth2 authentication
