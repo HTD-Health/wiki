@@ -8,6 +8,7 @@
 
 ### FHIR
 http://www.hl7.org/fhir
+
 http://docs.healtheintent.com
 	
 [API documentation]
@@ -15,6 +16,7 @@ http://docs.healtheintent.com
 
 ### Cerner
 https://code.cerner.com/build
+
 http://fhir.cerner.com/dstu2/
 
 [FAQ on FHIR/Cerner]
@@ -28,5 +30,7 @@ http://fhir.cerner.com/dstu2/
 
 ### SMART
 http://smarthealthit.org
+
 http://docs.smarthealthit.org
+
 https://github.com/smart-on-fhir
