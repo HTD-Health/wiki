@@ -7,17 +7,18 @@
 ## External resources
 
 ### FHIR
-http://www.hl7.org/fhir
-
-http://docs.healtheintent.com
+[FHIR site]
+(http://www.hl7.org/fhir)
 	
 [API documentation]
 (http://hl7.org/fhir/dstu2/http.html#general)
 
 ### Cerner
-https://code.cerner.com/build
+[Cerner developer documentation]
+(https://code.cerner.com/build)
 
-http://fhir.cerner.com/dstu2/
+[FHIR standard specification (DSTU2 Final)]
+(http://fhir.cerner.com/dstu2/)
 
 [FAQ on FHIR/Cerner]
 (http://fhir.cerner.com/faq/#what-are-smart-apps-and-what-is-cerners-position-on-usage-with-the-fhirsupsup-standard)
@@ -29,8 +30,11 @@ http://fhir.cerner.com/dstu2/
 (https://groups.google.com/forum/#!forum/cerner-fhir-developers)
 
 ### SMART
-http://smarthealthit.org
+[SMART Health IT]
+(http://smarthealthit.org)
 
-http://docs.smarthealthit.org
+[SMART documentation]
+(http://docs.smarthealthit.org)
 
-https://github.com/smart-on-fhir
+[SMNART GitHub account]
+(https://github.com/smart-on-fhir)
