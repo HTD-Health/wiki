@@ -10,21 +10,21 @@
 http://www.hl7.org/fhir
 http://docs.healtheintent.com
 	
-API documentation
-http://hl7.org/fhir/dstu2/http.html#general
+[API documentation]
+(http://hl7.org/fhir/dstu2/http.html#general)
 
 ### Cerner
 https://code.cerner.com/build
 http://fhir.cerner.com/dstu2/
 
-FAQ on FHIR/Cerner
-http://fhir.cerner.com/faq/#what-are-smart-apps-and-what-is-cerners-position-on-usage-with-the-fhirsupsup-standard
+[FAQ on FHIR/Cerner]
+(http://fhir.cerner.com/faq/#what-are-smart-apps-and-what-is-cerners-position-on-usage-with-the-fhirsupsup-standard)
 
-App registration
-https://cernermarketing.wufoo.com/forms/z352gae0xcax6t/
+[App registration]
+(https://cernermarketing.wufoo.com/forms/z352gae0xcax6t/)
 
-Cerner FHIR discussion group
-https://groups.google.com/forum/#!forum/cerner-fhir-developers
+[Cerner FHIR discussion group]
+(https://groups.google.com/forum/#!forum/cerner-fhir-developers)
 
 ### SMART
 http://smarthealthit.org
