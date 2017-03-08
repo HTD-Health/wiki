@@ -37,14 +37,17 @@ Document consist of mandatory textual parts (for humans) and structured optional
 
 ### General
 1. EPR (Electronic patient record)
-2. Meaningful Use	
+2. Meaningful Use
+
 ### Medical data exchange
 1. Clinical Document Architecture (CDA)
 2. Health Information Exchange (HIE)
+
 ### Concepts and semantics encoding
 1. SNOMED
 2. LOINC
 3. Continuity of Care Record
+
 ### Products / technologies
 1. Continuity of Care Document (CCD)
 2. Gello Expression Language
