@@ -1,4 +1,4 @@
-### FHIR
+## FHIR
 1. Created by Health Level Seven International  (http://www.hl7.org)
 2. FHIR provide API:
 	* RESTful end points
@@ -13,7 +13,7 @@
 Secure sandbox available (Oauth2)
 
 
-### Clinical Document Architecture 
+## Clinical Document Architecture 
 1. Created by Health Level Seven International  (http://www.hl7.org)
 2. Adopted as ISO standard - ISO/HL7 27932:2009 (CDA Release 2)
 3. Based on HL7 Reference Information Model (RIM) and the HL7 Version 3 Data Types
@@ -36,16 +36,16 @@ Document consist of mandatory textual parts (for humans) and structured optional
 ## Related topics
 
 ### General
-	* EPR (Electronic patient record)
-	* Meaningful Use	
+* EPR (Electronic patient record)
+* Meaningful Use	
 ### Medical data exchange
-	* Clinical Document Architecture (CDA)
-	* Health Information Exchange (HIE)
+* Clinical Document Architecture (CDA)
+* Health Information Exchange (HIE)
 ### Concepts and semantics encoding
-	* SNOMED
-	* LOINC
-	* Continuity of Care Record
+* SNOMED
+* LOINC
+* Continuity of Care Record
 ### Products / technologies
-	* Continuity of Care Document (CCD)
-	* Gello Expression Language
-	* SMART platform (http://smarthealthit.org)
+* Continuity of Care Document (CCD)
+* Gello Expression Language
+* SMART platform (http://smarthealthit.org)
