@@ -36,16 +36,16 @@ Document consist of mandatory textual parts (for humans) and structured optional
 ## Related topics
 
 ### General
-* EPR (Electronic patient record)
-* Meaningful Use	
+1. EPR (Electronic patient record)
+2. Meaningful Use	
 ### Medical data exchange
-* Clinical Document Architecture (CDA)
-* Health Information Exchange (HIE)
+1. Clinical Document Architecture (CDA)
+2. Health Information Exchange (HIE)
 ### Concepts and semantics encoding
-* SNOMED
-* LOINC
-* Continuity of Care Record
+1. SNOMED
+2. LOINC
+3. Continuity of Care Record
 ### Products / technologies
-* Continuity of Care Document (CCD)
-* Gello Expression Language
-* SMART platform (http://smarthealthit.org)
+1. Continuity of Care Document (CCD)
+2. Gello Expression Language
+3. SMART platform (http://smarthealthit.org)
