@@ -4,6 +4,8 @@
 
 [Frequently Asked Questions](FAQ.md)
 
+[Meaningful use](Meaningful use.md)
+
 ## External resources
 
 ### FHIR
